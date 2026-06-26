@@ -1,0 +1,13 @@
+sentence-transformers
+faiss-cpu
+rank-bm25
+pillow
+transformers
+torch
+pymupdf
+pytesseract
+openai 
+pypdf
+beautifulsoup4
+numpy
+pdfplumber
